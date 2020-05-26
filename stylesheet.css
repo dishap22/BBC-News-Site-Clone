@@ -1,0 +1,80 @@
+#top-bar {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: white; 
+	height: 40px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif; 
+}
+
+#logo {
+	margin-top: 8px;
+	float: left;
+	margin-right: 8px;
+	width: 100px;
+}
+
+.top-bar-content {
+	float: left;
+	border-left: 1px #CCCCCC solid;
+	height: 100%;
+}
+
+#profile-image {
+	width: 25px;
+	margin: 11px 15px;
+	float: left;
+}
+
+#sign-in-text {
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 14px;
+	padding-right: 50px;
+}
+
+#bent-line {
+	float: left;
+	height: 40px;
+}
+
+#bell { 
+	height: 25px;
+	margin: 9px 8px;
+}
+
+#bell-div { 
+	float: left;
+}
+
+.top-bar-menu {
+	font-weight: bold;
+	font-size: 90%;
+	padding: 14px 15px 0 15px;
+	height: 27px;
+}
+
+#more-arrow {
+	margin-left: 15px;
+}
+
+#searchbox {
+	background-color: #E4E4E4;
+	border: none;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 5px;
+	margin: 8px 0px 8px 5px;
+	float: left;
+	width: 150px;
+}
+
+#magnify { 
+	height: 26px;
+	margin-top: 8px;
+}
