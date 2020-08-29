@@ -1,2 +1,2 @@
 # BBC-News-Site-Clone
-A clone of the BBC News Site
+A clone of a page from the BBC News Site
